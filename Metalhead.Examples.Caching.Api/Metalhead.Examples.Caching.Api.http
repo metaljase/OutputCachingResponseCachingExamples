@@ -1,0 +1,5 @@
+@Metalhead.Examples.Caching.Api_HostAddress = http://localhost:5062
+
+POST {{Metalhead.Examples.Caching.Api_HostAddress}}/purge/tag-expire
+
+###
